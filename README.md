@@ -148,7 +148,8 @@ http://localhost:5173
 📸 Screenshots
 Landing Page
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0688d9a4-c409-4bc3-8b8d-0129d303b82d" />
+<img width="2560" height="1354" alt="image" src="https://github.com/user-attachments/assets/f0ed3913-8caa-40e0-a8c8-960837ee8802" />
+
 
 Common Dashboard
 
@@ -160,13 +161,16 @@ Product Details
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6f21d04a-3a86-4a1e-b316-100b89d5d0de" />
 
+
 Cart Page
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/77872d8a-747f-43ac-8730-3fd25748531a" />
 
+
 Admin Dashboard
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/bb50eabc-7151-44dd-a3c1-6dc7834efdb5" />
+
 
 ---
 
